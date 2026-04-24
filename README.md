@@ -42,7 +42,7 @@ Output: prints running process (0)
 ---
 
 ### 2. create process
-Creates a new process with priority level <p>.
+Creates a new process with priority level p.
 
 ```
 cr <p>
@@ -70,7 +70,7 @@ de 3
 ---
 
 ### 4. request resource
-Request <k> units of resource <r>.
+Request k units of resource r.
 
 ```
 rq <r> <k>
@@ -86,7 +86,7 @@ If unavailable → process is blocked.
 ---
 
 ### 5. release resource
-Release <k> units of resource <r>.
+Release k units of resource r.
 
 ```
 rl <r> <k>
