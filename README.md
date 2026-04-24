@@ -42,7 +42,7 @@ Output: prints running process (0)
 ---
 
 ### 2. create process
-Creates a new process with priority level <p>;.
+Creates a new process with priority level <p>.
 
 ```
 cr <p>
