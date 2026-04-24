@@ -21,7 +21,7 @@ gcc main.c manager.c pcb.c rcb.c -o manager
 ---
 
 ## Run Instructions
-Run the program and provide an input file to have the output inserted into its designated text file:
+Run the program and provide a text file as input to have the output inserted into a seperate text file:
 
 ```bash
 ./manager < input.txt > output.txt
